@@ -5,6 +5,7 @@ configure_file(
 )
 
 set(TEST_SOURCES  
+   test_discr.cc
    test_empty.cc
    # test_chebyshev.cc
    # test_generic.cc
